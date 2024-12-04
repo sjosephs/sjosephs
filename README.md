@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 - Mobile Device Management Intune & Jamf
 - Active Directory
 - Cloud Computing AWS, Azure
-  
+
+  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure&perline=3)](https://skillicons.dev)
 
   
