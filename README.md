@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 [IT](https://images.app.goo.gl/YaFD7TjL9nn37rYC6)
 
-![pic](./SylviaJoseph.png)
+![pic](./sj.png)
