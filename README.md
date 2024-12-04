@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 *A passionate System Administrator with a Masters Degree in Managing Information Technology- Providing IT Support to the team to ensure smooth business operations. Gained                experience of infrastructure solutions, particularly in relation to Microsoft programs and cloud technologies. Experience of working in an international team.*
 
 [IT](https://images.app.goo.gl/YaFD7TjL9nn37rYC6)
+
+![pic](./Sylvia Joseph - BVG Card.png)
