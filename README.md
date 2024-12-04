@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 [IT](https://images.app.goo.gl/YaFD7TjL9nn37rYC6)
 
-![pic](./Sylvia Joseph - BVG Card.png)
+![pic](./SylviaJoseph.png)
